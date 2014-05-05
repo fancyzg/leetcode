@@ -19,8 +19,6 @@ class Solution {
 		vector<int> stk;
 		int i;
 		int last = -1;
-		int tlv  = 0;
-		int atlv = 0;
 		int lv   = 0;
 		if(s.size() == 0) return 0;
 		for(i = 0; i < s.size(); i++){
