@@ -15,7 +15,6 @@
 //word = "SEE", -> returns true,
 //word = "ABCB", -> returns false.
 //
-
 #include<iostream>
 #include<vector>
 #include<string>
@@ -99,4 +98,7 @@ int main(){
     cout<<sl.exist(board,"abcdefg")<<endl;
     return 0;
 }
+
+//// many years later, just a test
+
 
