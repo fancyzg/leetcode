@@ -98,10 +98,3 @@ int main(){
     cout<<sl.exist(board,"abcdefg")<<endl;
     return 0;
 }
-
-//// many years later, just a test
-///
-///
-/// just a test
-
-
